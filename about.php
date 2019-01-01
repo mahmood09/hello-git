@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>this is page of mahmood</title>
+	<title>this is page of about</title>
 </head>
 <body>
 
